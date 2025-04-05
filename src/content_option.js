@@ -114,7 +114,7 @@ const dataportfolio = [{
         link: "#",
     },
     {
-        img: "https://picsum.photos/400/700/?grayscale",
+        img: "https://i.ibb.co.com/sJKKsBwh/LMC-20250216-123744-Spacial-Diamond-Color-Lmc-8-4-R15.jpg",
         description: "The wisdom of life consists in the elimination of non-essentials.",
         link: "#",
     },
@@ -129,7 +129,7 @@ const dataportfolio = [{
         link: "#",
     },
     {
-        img: "https://picsum.photos/400/700/?grayscale",
+        img: "https://i.ibb.co.com/vChSGRHN/LMC-20240918-194715-Spacial-Diamond-Color-Lmc-8-4-R15.jpg",
         description: "The wisdom of life consists in the elimination of non-essentials.",
         link: "#",
     },
