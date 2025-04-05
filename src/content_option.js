@@ -12,7 +12,7 @@ const introdata = {
         third: "Department of Electrical",
     },
     description: "Hello! I’m Nadim, a dedicated student currently pursuing my studies in Electrical Technology at Bogura Polytechnic Institute. With a strong passion for technology and innovation, I am committed to gaining in-depth knowledge and hands-on experience in the electrical field to build a successful career",
-    your_img_url: "https://ibb.co.com/5gq1g1dN",
+    your_img_url: "https://imagekit.io/tools/asset-public-link?detail=%7B%22name%22%3A%22IMG_20241022_114531.jpg%22%2C%22type%22%3A%22image%2Fjpeg%22%2C%22signedurl_expire%22%3A%222028-04-04T18%3A16%3A04.705Z%22%2C%22signedUrl%22%3A%22https%3A%2F%2Fmedia-hosting.imagekit.io%2F28a168ffb5044c64%2FIMG_20241022_114531.jpg%3FExpires%3D1838484965%26Key-Pair-Id%3DK2ZIVPTIP2VGHC%26Signature%3Dq7Vu7DVwypY7GX1olnWFQkhowVUw~OhtpF5caQZdzQc0RckZbAnk12hemSbXRuZPKYhPcuDUzPQxr~rGM~w3FPyWCYAxfdNgzHOIz3PvXZvpEOZmyPeTr3lmSa7MksnlJXwaEiel5kaEGrM3Z8YZS-XY1nmN702jXo7RVSA8x0dBIov6DLDu3PvLrRC3VOUK8qBaeUsMKkVEyTozu38dnRcNmbdJ8OSs9rQTL6CFHv8nzirzPPO8wD8ZSzjbPKuk-jXqdgoJZgWEhkGqNIV7JqxCnvgpj6Ppj0mFkCdpwIbeaGddCR5LNRnvl3j1fCu0mqtlY5-m6buIq6nu45E2wQ__%22%7D",
 };
 
 const dataabout = {
