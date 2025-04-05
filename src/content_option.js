@@ -12,7 +12,7 @@ const introdata = {
         third: "Department of Electrical",
     },
     description: "Hello! I’m Nadim, a dedicated student currently pursuing my studies in Electrical Technology at Bogura Polytechnic Institute. With a strong passion for technology and innovation, I am committed to gaining in-depth knowledge and hands-on experience in the electrical field to build a successful career",
-    your_img_url: "https://ibb.co/8T98Vjb",
+    your_img_url: "https://ibb.co.com/5gq1g1dN",
 };
 
 const dataabout = {
@@ -20,19 +20,19 @@ const dataabout = {
     aboutme: "My name is Md Nazmul Hasan Nadim. I’m 19 years old and from Naogaon. I’m currently studying Electrical Technology, and my dream is to become a successful engineer in the future. In my free time, another hobby like gaming, watching movies, or listening to music. People describe me as hardworking, curious, and calm—I believe in learning steadily and staying focused on my goals.",
 };
 const worktimeline = [{
-        jobtitle: "Designer of week",
-        where: "Bogura",
-        date: "2025",
+        jobtitle: "Bogura Polytechnic Institute",
+        where: "Kolony, Bogura",
+        date: "2023- now",
     },
     {
-        jobtitle: "Designer of week",
-        where: "Dhaka",
-        date: "2022",
+        jobtitle: "Dubalhati Raja Haranath High School",
+        where: "Dubalhati, Naogaon",
+        date: "2020-22",
     },
     {
-        jobtitle: "Designer of week",
-        where: "Naogaon",
-        date: "2019",
+        jobtitle: "Sunbeam Model School",
+        where: "Dubalhati, Naogaon",
+        date: "2009-19",
     },
 ];
 
