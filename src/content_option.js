@@ -1,18 +1,18 @@
-const logotext = "JOHN";
+const logotext = "NADIM";
 const meta = {
-    title: "John Doe",
-    description: "I’m John Doe data scientist _ Full stack devloper,currently working in Berlin",
+    title: "MD NAZMUL HASAN NADIM",
+    description: "I'M NADIM , Student At BOGURA POLYTECHNIC INSTITUTE",
 };
 
 const introdata = {
-    title: "I’m John Doe",
+    title: "I’m MD NAZMUL HASAN NADIM",
     animated: {
-        first: "I love coding",
-        second: "I code cool websites",
-        third: "I develop mobile apps",
+        first: "I'm a Student",
+        second: "Study at Bogura Polytechnic Institute",
+        third: "Department of Electrical",
     },
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum",
-    your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
+    description: "Hello! I’m Nadim, a dedicated student currently pursuing my studies in Electrical Technology at Bogura Polytechnic Institute. With a strong passion for technology and innovation, I am committed to gaining in-depth knowledge and hands-on experience in the electrical field to build a successful career",
+    your_img_url: "https://ibb.co/8T98Vjb",
 };
 
 const dataabout = {
