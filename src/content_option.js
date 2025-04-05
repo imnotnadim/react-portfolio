@@ -17,58 +17,58 @@ const introdata = {
 
 const dataabout = {
     title: "abit about my self",
-    aboutme: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis dolor id ligula semper elementum feugiat pretium nulla. Nunc non commodo dolor. Nunc mollis dignissim facilisis. Morbi ut magna ultricies.",
+    aboutme: "My name is Md Nazmul Hasan Nadim. I’m 19 years old and from Naogaon. I’m currently studying Electrical Technology, and my dream is to become a successful engineer in the future. In my free time, another hobby like gaming, watching movies, or listening to music. People describe me as hardworking, curious, and calm—I believe in learning steadily and staying focused on my goals.",
 };
 const worktimeline = [{
         jobtitle: "Designer of week",
-        where: "YAdfi",
-        date: "2020",
+        where: "Bogura",
+        date: "2025",
     },
     {
         jobtitle: "Designer of week",
-        where: "Jamalya",
-        date: "2019",
+        where: "Dhaka",
+        date: "2022",
     },
     {
         jobtitle: "Designer of week",
-        where: "ALquds",
+        where: "Naogaon",
         date: "2019",
     },
 ];
 
 const skills = [{
-        name: "Python",
+        name: "Practical electrical work",
         value: 90,
     },
     {
-        name: "Djano",
-        value: 85,
+        name: "teamwork",
+        value: 100,
     },
     {
-        name: "Javascript",
-        value: 80,
+        name: "problem-solving",
+        value: 90,
     },
     {
         name: "React",
-        value: 60,
+        value: 80,
     },
     {
-        name: "Jquery",
+        name: "technical learning",
         value: 85,
     },
 ];
 
 const services = [{
-        title: "UI & UX Design",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+        title: "Practical electrical work",
+        description: "Setting up electrical circuits, outlets, switches, and lighting systems",
     },
     {
-        title: "Mobile Apps",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+        title: "teamwork",
+        description: "Collaborating effectively with peers on projects and assignments",
     },
     {
-        title: "Wordpress Design",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+        title: "Digital Marketing",
+        description: "Basic knowledge of digital marketing strategies and tools.",
     },
 ];
 
@@ -136,9 +136,9 @@ const dataportfolio = [{
 ];
 
 const contactConfig = {
-    YOUR_EMAIL: "name@domain.com",
-    YOUR_FONE: "(555)123-4567",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eu nunc et sollicitudin. Cras pulvinar, nisi at imperdiet pharetra. ",
+    YOUR_EMAIL: "mdnazmulhasannadim1@gmail.com",
+    YOUR_FONE: "(+880)1707313022",
+    description: "Feel free to contact me for any inquiries or collaborations",
     // creat an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
     YOUR_SERVICE_ID: "service_id",
@@ -147,10 +147,10 @@ const contactConfig = {
 };
 
 const socialprofils = {
-    github: "https://github.com",
-    facebook: "https://facebook.com",
-    linkedin: "https://linkedin.com",
-    twitter: "https://twitter.com",
+    github: "https://github.com/imnotnadim",
+    facebook: "https://www.facebook.com/amnotnadim",
+    linkedin: "https://www.linkedin.com/in/imnnadim",
+    twitter: "https://x.com/imnot_nadim",
 };
 export {
     meta,
