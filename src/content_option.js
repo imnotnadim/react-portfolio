@@ -72,59 +72,59 @@ const services = [{
     },
 ];
 
-const dataAlbum = [{
-        img: "https://www.imghippo.com/i/PcVD3754xEg.jpg",
+const dataportfolio = [{
+        img: "https://i.imghippo.com/files/PcVD3754xEg.jpg",
         description: "The wisdom of life consists in the elimination of non-essentials.",
         link: "#",
     },
     {
-        img: "https://www.imghippo.com/i/ZjAb3937j.jpg",
+        img: "https://i.imghippo.com/files/ZjAb3937j.jpg",
         description: "The wisdom of life consists in the elimination of non-essentials.",
         link: "#",
     },
     {
-        img: "https://www.imghippo.com/i/hmse7740Vk.png",
+        img: "https://i.imghippo.com/files/hmse7740Vk.png",
         description: "The wisdom of life consists in the elimination of non-essentials.",
         link: "#",
     },
     {
-        img: "https://www.imghippo.com/i/Vgg1243YU.png",
+        img: "https://i.imghippo.com/files/Vgg1243YU.png",
         description: "The wisdom of life consists in the elimination of non-essentials.",
         link: "#",
     },
     {
-        img: "https://www.imghippo.com/i/Vgg1243YU.png",
+        img: "https://i.imghippo.com/files/Vgg1243YU.png",
         description: "The wisdom of life consists in the elimination of non-essentials.",
         link: "#",
     },
     {
-        img: "https://www.imghippo.com/i/Vgg1243YU.png",
+        img: "https://i.imghippo.com/files/Vgg1243YU.png",
         description: "The wisdom of life consists in the elimination of non-essentials.",
         link: "#",
     },
 
     {
-        img: "https://www.imghippo.com/i/zSc4334EHo.jpg",
+        img: "https://i.imghippo.com/files/zSc4334EHo.jpg",
         description: "The wisdom of life consists in the elimination of non-essentials.",
         link: "#",
     },
     {
-        img: "https://www.imghippo.com/i/dAqr4246CqU.jpg",
+        img: "https://i.imghippo.com/files/dAqr4246CqU.jpg",
         description: "The wisdom of life consists in the elimination of non-essentials.",
         link: "#",
     },
     {
-        img: "https://www.imghippo.com/i/imGb7698jc.jpg
+        img: "https://i.imghippo.com/files/imGb7698jc.jpg
         description: "The wisdom of life consists in the elimination of non-essentials.",
         link: "#",
     },
     {
-        img: "https://www.imghippo.com/i/fa4624bs.jpg",
+        img: "https://i.imghippo.com/files/fa4624bs.jpg",
         description: "The wisdom of life consists in the elimination of non-essentials.",
         link: "#",
     },
     {
-        img: "https://www.imghippo.com/i/xPc8062XE.jpg",
+        img: "https://i.imghippo.com/files/xPc8062XE.jpg",
         description: "The wisdom of life consists in the elimination of non-essentials.",
         link: "#",
     },
