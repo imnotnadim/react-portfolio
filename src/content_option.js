@@ -88,12 +88,12 @@ const dataportfolio = [{
         link: "#",
     },
     {
-        img: "https://i.imghippo.com/files/Vgg1243YU.png",
+        img: "https://i.imghippo.com/files/VWb5943dg.jpg",
         description: "The wisdom of life consists in the elimination of non-essentials.",
         link: "#",
     },
     {
-        img: "https://i.imghippo.com/files/Vgg1243YU.png",
+        img: "https://i.imghippo.com/files/HzRO8591Ftw.jpg",
         description: "The wisdom of life consists in the elimination of non-essentials.",
         link: "#",
     },
