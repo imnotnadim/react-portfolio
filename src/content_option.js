@@ -7,7 +7,7 @@ const meta = {
 const introdata = {
     title: "I’m MD NAZMUL HASAN NADIM",
     animated: {
-        first: "Student • Coder",
+        first: "Student • Traveler • Coder",
         second: "Gamer • Social Media Expert",
         third: "Based In Naogaon Sadar",
     },
@@ -150,7 +150,7 @@ const socialprofils = {
     github: "https://github.com/hasannadim0",
     facebook: "https://www.facebook.com/hasannadim0",
     linkedin: "https://www.linkedin.com/in/hasannadim0",
-    twitter: "https://x.com/hasannadim0",
+    twitter: "https://x.com/hasan_nadim0",
 };
 export {
     meta,
