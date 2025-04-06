@@ -1,6 +1,6 @@
 const logotext = "NADIM";
 const meta = {
-    title: "MD NAZMUL HASAN NADIM",
+    title: "NADIM",
     description: "I'M NADIM , Student At BOGURA POLYTECHNIC INSTITUTE",
 };
 
@@ -20,18 +20,18 @@ const dataabout = {
     aboutme: "My name is Md Nazmul Hasan Nadim. I’m 19 years old and from Naogaon. I’m currently studying Electrical Technology, and my dream is to become a successful engineer in the future. In my free time, another hobby like gaming, watching movies, or listening to music. People describe me as hardworking, curious, and calm—I believe in learning steadily and staying focused on my goals.",
 };
 const worktimeline = [{
-        jobtitle: "Bogura Polytechnic Institute",
-        where: "Kolony, Bogura",
-        date: "2023- now",
+        jobtitle: "Diploma in Electrical Technology",
+        where: "Bogura Polytechnic Institute",
+        date: "2022-23",
     },
     {
-        jobtitle: "Dubalhati Raja Haranath High School",
-        where: "Dubalhati, Naogaon",
+        jobtitle: "SSC",
+        where: "Dubalhati Raja Haranath High School",
         date: "2020-22",
     },
     {
-        jobtitle: "Sunbeam Model School",
-        where: "Dubalhati, Naogaon",
+        jobtitle: "PSC & JSC",
+        where: "Sunbeam Model School",
         date: "2009-19",
     },
 ];
@@ -41,11 +41,11 @@ const skills = [{
         value: 90,
     },
     {
-        name: "teamwork",
+        name: "Teamwork",
         value: 100,
     },
     {
-        name: "problem-solving",
+        name: "Problem-solving",
         value: 90,
     },
     {
@@ -53,7 +53,7 @@ const skills = [{
         value: 80,
     },
     {
-        name: "technical learning",
+        name: "Technical learning",
         value: 85,
     },
 ];
