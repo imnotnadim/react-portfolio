@@ -16,7 +16,7 @@ const introdata = {
 };
 
 const dataabout = {
-    title: "abit about my self",
+    title: "Abit About My Self",
     aboutme: "My name is Md Nazmul Hasan Nadim. I’m 19 years old and from Naogaon. I’m currently studying Electrical Technology, and my dream is to become a successful engineer in the future. In my free time, another hobby like gaming, watching movies, or listening to music. People describe me as hardworking, curious, and calm—I believe in learning steadily and staying focused on my goals.",
 };
 const worktimeline = [{
@@ -37,7 +37,7 @@ const worktimeline = [{
 ];
 
 const skills = [{
-        name: "Practical electrical work",
+        name: "Practical Electrical Work",
         value: 90,
     },
     {
@@ -45,7 +45,7 @@ const skills = [{
         value: 100,
     },
     {
-        name: "Problem-solving",
+        name: "Problem-Solving",
         value: 90,
     },
     {
@@ -53,17 +53,17 @@ const skills = [{
         value: 80,
     },
     {
-        name: "Technical learning",
+        name: "Technical Learning",
         value: 85,
     },
 ];
 
 const services = [{
-        title: "Practical electrical work",
+        title: "Practical Electrical work",
         description: "Setting up electrical circuits, outlets, switches, and lighting systems",
     },
     {
-        title: "teamwork",
+        title: "Teamwork",
         description: "Collaborating effectively with peers on projects and assignments",
     },
     {
