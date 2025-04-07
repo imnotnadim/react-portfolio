@@ -136,7 +136,7 @@ const dataportfolio = [{
 ];
 
 const contactConfig = {
-    YOUR_EMAIL: "mdnazmulhasannadim1@gmail.com",
+    YOUR_EMAIL: "nadiim@duck.com",
     YOUR_FONE: "(+880)1707313022",
     description: "Feel free to contact me for any inquiries or collaborations",
     // creat an emailjs.com account 
