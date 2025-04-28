@@ -17,7 +17,7 @@ const introdata = {
 
 const dataabout = {
     title: "Abit About My Self",
-    aboutme: "My name is Md Nazmul Hasan Nadim. I’m 19 years old and from Naogaon. I’m currently studying Electrical Technology, and my dream is to become a successful engineer in the future. In my free time, another hobby like gaming, watching movies, or listening to music. People describe me as hardworking, curious, and calm—I believe in learning steadily and staying focused on my goals.",
+    aboutme: "My Name is Md Nazmul Hasan Nadim. I’m 19 years old and from Naogaon. I’m currently studying Electrical Technology, and my dream is to become a successful engineer in the future. In my free time, another hobby like gaming, watching movies, or listening to music. People describe me as hardworking, curious, and calm—I believe in learning steadily and staying focused on my goals.",
 };
 const worktimeline = [{
         jobtitle: "Diploma in Electrical Technology",
@@ -59,8 +59,8 @@ const skills = [{
 ];
 
 const services = [{
-        title: "Practical Electrical work",
-        description: "Setting up electrical circuits, outlets, switches, and lighting systems",
+        title: "Coding",
+        description: "Loading...",
     },
     {
         title: "Teamwork",
@@ -74,63 +74,63 @@ const services = [{
 
 const dataportfolio = [{
         img: "https://i.imghippo.com/files/PcVD3754xEg.jpg",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
+        description: "After the first day of class",
         link: "#",
     },
     {
         img: "https://i.imghippo.com/files/ZjAb3937j.jpg",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
+        description: "in the villag.",
         link: "#",
     },
     {
         img: "https://i.imghippo.com/files/hmse7740Vk.png",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
+        description: "Lost in thoughts, looking away into the unknown.",
         link: "#",
     },
     {
         img: "https://i.imghippo.com/files/VWb5943dg.jpg",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
+        description: "Looking ahead with a tilted head, dreaming of the future.",
         link: "#",
     },
     {
         img: "https://i.imghippo.com/files/HzRO8591Ftw.jpg",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
+        description: " Three cat.🤡",
         link: "#",
     },
     {
         img: "https://i.imghippo.com/files/Vgg1243YU.png",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
+        description: "😗😗",
         link: "#",
     },
 
     {
         img: "https://i.imghippo.com/files/zSc4334EHo.jpg",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
+        description: "কিরে স্লা? Sifat.",
         link: "#",
     },
     {
         img: "https://i.imghippo.com/files/dAqr4246CqU.jpg",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
+        description: "😕😕",
         link: "#",
     },
     {
         img: "https://iili.io/37lSne9.jpg",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
+        description: "a silent feeling lost in the soft shadows of the evening.",
         link: "#",
     },
     {
-        img: "https://i.imghippo.com/files/fa4624bs.jpg",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
+        img: "https://i.imghippo.com/files/xsHL6858WM.JPG",
+        description: "Majhira Cantonment with buddy",
         link: "#",
     },
     {
-        img: "https://i.imghippo.com/files/xPc8062XE.jpg",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
+        img: "https://i.imghippo.com/files/eQ2617U.jpg",
+        description: ".....",
         link: "#",
     },
     {
-        img: "https://iili.io/37lS2sf.md.jpg",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
+        img: "https://i.imghippo.com/files/Iyn9083dK.jpg",
+        description: "Bonni Flyover.",
         link: "#",
     },
 ];
