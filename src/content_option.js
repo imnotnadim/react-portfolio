@@ -12,7 +12,7 @@ const introdata = {
         third: "Based In Naogaon Sadar",
     },
     description: "Hello! I’m Nadim, a dedicated student currently pursuing my studies in Electrical Technology at Bogura Polytechnic Institute. With a strong passion for technology and innovation, I am committed to gaining in-depth knowledge and hands-on experience in the electrical field to build a successful career",
-    your_img_url: "https://i.imghippo.com/files/eQ2617U.jpg",
+    your_img_url: "https://i.imghippo.com/files/nPZ5238Wo.png",
 };
 
 const dataabout = {
