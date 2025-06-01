@@ -147,10 +147,10 @@ const contactConfig = {
 };
 
 const socialprofils = {
-    github: "https://github.com/hasannadim0",
-    facebook: "https://www.facebook.com/hasannadim0",
-    linkedin: "https://www.linkedin.com/in/hasannadim0",
-    twitter: "https://x.com/hasan_nadim0",
+    github: "https://github.com/nadimxe",
+    facebook: "https://www.facebook.com/nadimxe",
+    linkedin: "https://www.linkedin.com/in/nadimxe",
+    twitter: "https://x.com/nadimxe",
 };
 export {
     meta,
